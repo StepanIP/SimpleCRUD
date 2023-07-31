@@ -1,0 +1,37 @@
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-size: 150%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    margin: 30px 150px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 175px; /* фіксована ширина */
+    height: 40px; /* фіксована висота */
+    font-size: 22px;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
