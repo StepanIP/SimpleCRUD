@@ -40,6 +40,10 @@ SimpleCRUD is a Java web application designed for jewelry shop automation, enabl
 - user
 - wishlist
 
+## Database Diagram
+
+![Project Banner](1diagram.png)
+
 ## Getting Started
 
 ### Prerequisites
